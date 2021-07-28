@@ -1,6 +1,8 @@
 <h1 align="center">🎶 Player de Música</h1>
 
-
+<p align="center">
+  <img src="img/home.jpeg" alt="">
+</p>
 
 
 ### Importante ⚠️
@@ -9,7 +11,7 @@
 
 ### Site 💻
 
-- [Player de Música](https://covid-19-projeto.netlify.app/index.html)
+- [Player de Música](https://player-musica-projeto.netlify.app/)
 
 ## Linguagens: 🚀
 - HTML
